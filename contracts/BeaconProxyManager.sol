@@ -8,7 +8,7 @@ import {UpgradeableBeacon} from "@openzeppelin/contracts/proxy/beacon/Upgradeabl
  * @title BeaconProxyManager
  * @dev Handles the deployment and management of proxy beacons
  * @author @elkadro
- * @license CC-BY-4.0
+ * @dev license CC-BY-4.0
  */
 contract BeaconProxyManager {
     bool private beaconInitialized;
